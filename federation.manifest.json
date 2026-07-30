@@ -1,0 +1,5 @@
+{
+  "demoMfe": "./demo-mfe/remoteEntry.json",
+  "pornMfe": "./porn-mfe/remoteEntry.json",
+  "aiLogMfe": "./ai-log-mfe/remoteEntry.json"
+}

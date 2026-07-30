@@ -1,0 +1,131 @@
+{
+  "name": "demo-mfe",
+  "shared": [
+    {
+      "packageName": "@angular/common",
+      "outFileName": "_angular_common.WNUFD9-Iox.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/common/http",
+      "outFileName": "_angular_common_http.N8GUQu2tbI.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/core",
+      "outFileName": "_angular_core.0RYkQoaUKR.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/core/primitives/di",
+      "outFileName": "_angular_core_primitives_di.nsK2pEWP9Z.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/core/primitives/signals",
+      "outFileName": "_angular_core_primitives_signals.HmNYgpsN_v.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/platform-browser",
+      "outFileName": "_angular_platform_browser.QQCAVE-VTo.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "@angular/router",
+      "outFileName": "_angular_router.1vOPtc2QlK.js",
+      "requiredVersion": "^20.1.2",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "20.3.17"
+    },
+    {
+      "packageName": "rxjs",
+      "outFileName": "rxjs.-2krwF-epC.js",
+      "requiredVersion": "7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.0"
+    },
+    {
+      "packageName": "rxjs/operators",
+      "outFileName": "rxjs_operators.4swKJ85WzO.js",
+      "requiredVersion": "7.8.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "7.8.0"
+    },
+    {
+      "packageName": "tslib",
+      "outFileName": "tslib.8_yiuQhTuG.js",
+      "requiredVersion": "^2.2.0",
+      "singleton": true,
+      "strictVersion": true,
+      "version": "2.8.1"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-RBQPC3C6",
+      "outFileName": "chunk-RBQPC3C6.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-H7IFLRAH",
+      "outFileName": "chunk-H7IFLRAH.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-IXLJRAZM",
+      "outFileName": "chunk-IXLJRAZM.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-3D67NZWP",
+      "outFileName": "chunk-3D67NZWP.js"
+    },
+    {
+      "singleton": false,
+      "strictVersion": false,
+      "version": "0.0.0",
+      "requiredVersion": "0.0.0",
+      "packageName": "@nf-internal/chunk-4CLCTAJ7",
+      "outFileName": "chunk-4CLCTAJ7.js"
+    }
+  ],
+  "exposes": [
+    {
+      "key": "./Component",
+      "outFileName": "Component-KNF7KUAN.js"
+    }
+  ]
+}

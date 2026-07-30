@@ -1,0 +1,1 @@
+import"@angular/core";import*as o from"@angular/core";var c=(()=>{let t=class t{canActivate({data:n}){return window.open(n.externalUrl,"_blank"),!1}};t.\u0275fac=function(r){return new(r||t)},t.\u0275prov=o.\u0275\u0275defineInjectable({token:t,factory:t.\u0275fac,providedIn:"root"});let e=t;return e})();export{c as a};
