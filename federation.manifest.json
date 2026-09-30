@@ -1,0 +1,6 @@
+{
+  "demoMfe": "./demo-mfe/remoteEntry.json",
+  "chunaiMfe": "./chunai-mfe/remoteEntry.json",
+  "aiLogMfe": "./ai-log-mfe/remoteEntry.json",
+  "musicMfe": "./music-mfe/remoteEntry.json"
+}
